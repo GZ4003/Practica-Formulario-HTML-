@@ -1,0 +1,29 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(101, 247, 247);
+    font-family: 'Girassol', cursive;
+    box-sizing: border-box;
+}
+
+header {
+    position: relative;
+    border-bottom: 1px solid rgb(247, 22, 22);
+    padding: 16px;
+}
+
+header .logo {
+    position: absolute;
+    right: 1%;
+    top: 1%;
+}
+
+
+.logo {
+    width: 90px;
+    height: 80px;
+}
+
+.logo img {
+    width: 100%;
+    height:auto;
